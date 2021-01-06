@@ -1,0 +1,13 @@
+C:\Users\kiera\Documents\Computer Science\RomanNumeral\obj\Debug\netcoreapp3.1\RomanNumeral.csprojAssemblyReference.cache
+C:\Users\kiera\Documents\Computer Science\RomanNumeral\obj\Debug\netcoreapp3.1\RomanNumeral.csproj.CoreCompileInputs.cache
+C:\Users\kiera\Documents\Computer Science\RomanNumeral\obj\Debug\netcoreapp3.1\RomanNumeral.AssemblyInfoInputs.cache
+C:\Users\kiera\Documents\Computer Science\RomanNumeral\obj\Debug\netcoreapp3.1\RomanNumeral.AssemblyInfo.cs
+C:\Users\kiera\Documents\Computer Science\RomanNumeral\bin\Debug\netcoreapp3.1\RomanNumeral.exe
+C:\Users\kiera\Documents\Computer Science\RomanNumeral\bin\Debug\netcoreapp3.1\RomanNumeral.deps.json
+C:\Users\kiera\Documents\Computer Science\RomanNumeral\bin\Debug\netcoreapp3.1\RomanNumeral.runtimeconfig.json
+C:\Users\kiera\Documents\Computer Science\RomanNumeral\bin\Debug\netcoreapp3.1\RomanNumeral.runtimeconfig.dev.json
+C:\Users\kiera\Documents\Computer Science\RomanNumeral\bin\Debug\netcoreapp3.1\RomanNumeral.dll
+C:\Users\kiera\Documents\Computer Science\RomanNumeral\bin\Debug\netcoreapp3.1\RomanNumeral.pdb
+C:\Users\kiera\Documents\Computer Science\RomanNumeral\obj\Debug\netcoreapp3.1\RomanNumeral.dll
+C:\Users\kiera\Documents\Computer Science\RomanNumeral\obj\Debug\netcoreapp3.1\RomanNumeral.pdb
+C:\Users\kiera\Documents\Computer Science\RomanNumeral\obj\Debug\netcoreapp3.1\RomanNumeral.genruntimeconfig.cache
